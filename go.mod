@@ -9,7 +9,7 @@ require (
 	github.com/google/go-cmp v0.5.2 // indirect
 	github.com/hashicorp/go-version v1.2.1
 	github.com/pkg/errors v0.9.1 // indirect
-	github.com/sirupsen/logrus v1.6.0 // indirect
+	github.com/sirupsen/logrus v1.8.3 // indirect
 	github.com/urfave/cli v1.22.4
 	golang.org/x/crypto v0.0.0-20200820211705-5c72a883971a // indirect
 	gotest.tools v2.2.0+incompatible // indirect
